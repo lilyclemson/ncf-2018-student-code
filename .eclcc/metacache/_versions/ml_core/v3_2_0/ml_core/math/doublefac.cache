@@ -1,0 +1,7 @@
+<Cache hash="2211282942984338090">
+<Attr module="_versions.ML_Core.V3_2_0.ML_Core.Math" name="doublefac"/>
+<Simplified>
+EXPORT real8 doublefac(integer2 i) := __SIMPLIFIED__(real8);
+
+</Simplified>
+</Cache>

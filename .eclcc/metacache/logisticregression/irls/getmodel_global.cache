@@ -1,0 +1,11 @@
+<Cache hash="2211282942984338090">
+<Attr module="LogisticRegression.IRLS" name="getmodel_global">
+ <Depend module="_versions.ML_Core.V3_2_0.ML_Core" name="types"/>
+ <Depend module="std" name="blas"/>
+ <Depend module="LogisticRegression" name="constants"/>
+ <Depend module="LogisticRegression" name="types"/>
+ <Depend module="LogisticRegression" name="dimm"/>
+</Attr>
+<Simplified>
+</Simplified>
+</Cache>

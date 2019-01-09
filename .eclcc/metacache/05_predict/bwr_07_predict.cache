@@ -1,0 +1,13 @@
+<Cache hash="2211282942984338090">
+<Attr module="05_Predict" name="bwr_07_predict">
+ <Depend module="_versions.ML_Core.V3_2_0.ML_Core" name="types"/>
+ <Depend module="_versions.ML_Core.V3_2_0.ML_Core" name="analysis"/>
+ <Depend module="_versions.ML_Core.V3_2_0.ML_Core" name="appendid"/>
+ <Depend module="std.system" name="thorlib"/>
+ <Depend module="_versions.ML_Core.V3_2_0.ML_Core" name="fieldaggregates"/>
+ <Depend module="_versions.ML_Core.V3_2_0.ML_Core" name="tofield"/>
+ <Depend module="LogisticRegression" name="binomiallogisticregression"/>
+</Attr>
+<Simplified>
+</Simplified>
+</Cache>
